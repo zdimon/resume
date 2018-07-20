@@ -124,7 +124,7 @@ Dating website https://star-marriage.com/ (PHP, Symfony).
 
 Armenian journals internet shop http://pressinfo.am/.
  
-Other skills.
+### Other skills.
 
 - git;
 
