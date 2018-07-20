@@ -26,7 +26,7 @@ Totally I have about 17 years commercial experience in software development.
 
 ## Stack of skills:
 
-PHP
+### PHP
 
 - Symfony
 
