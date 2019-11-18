@@ -40,6 +40,8 @@ Totally I have about 17 years commercial experience in software development.
 - Tornado
 
 - web.py
+
+- celery
  
 
 ### Network
@@ -61,10 +63,13 @@ Totally I have about 17 years commercial experience in software development.
 
 - AngularJs
 
-- Angular 2,4,5
+- Angular 2-8
 
 - SocketJS
 
+- RxJS
+
+- REDUX
 
 ### Testing
 
@@ -79,6 +84,10 @@ Totally I have about 17 years commercial experience in software development.
 ### CSS
 
 - Bootstrap.
+
+- Material Design
+
+- Flex Layout
 
 ### Databases.
 
@@ -128,7 +137,9 @@ Armenian journals internet shop http://pressinfo.am/.
 
 - git;
 
-- 1-year experience of teaching Python and Javascript on private corses.
+- trello;
+
+- 2-year experience of teaching Python and Javascript on private corses.
 
 
 
