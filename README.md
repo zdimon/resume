@@ -20,6 +20,8 @@ Experience.
 2015-2016 – development of frontend single page applications using AngularJS and Django. 
 
 2016-2018 - development of SPA application (full stack) with Angular 2,  Django and NodeJS.
+
+2018-2021 - development of the SPA application (full stack) with ReactJs,  Django and Djando Rest Framework.
  
 Totally I have about 17 years commercial experience in software development. 
 
@@ -64,6 +66,8 @@ Totally I have about 17 years commercial experience in software development.
 - AngularJs
 
 - Angular 2-8
+
+- ReactJs
 
 - SocketJS
 
